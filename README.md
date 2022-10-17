@@ -8,3 +8,7 @@ In this project, I was able to:
     3. Add comments to the code for myself and future developers who may work on the code;
     4. Replace "<div>" elements with more appropriate semantic elements;
     5. Fix a broken link to the 'Search Engine Optimization' section;
+    6. Consolodate CSS selectors;
+    7. Move the hero image into html and add alt text.
+
+
