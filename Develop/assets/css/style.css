@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,6 +43,19 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Hero image below navigation bar */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    /* The background image below was moved to CSS as an image and 'background-size' was replaced with 'object fit' */
+    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
+    object-fit: cover;
+    /* background-size: cover; */
+    background-position: center;
+}
+
+/* Main */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,16 +65,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
-    object-fit: cover;
-    /* background-size: cover; */
-    background-position: center;
-}
-
+/* Services-offered section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -94,6 +100,7 @@ p {
     max-height: 200px;
 }
 
+/* Benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +128,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
