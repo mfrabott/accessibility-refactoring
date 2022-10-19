@@ -13,7 +13,9 @@ In this project, I was able to:
     4. Replace "div" elements with more appropriate semantic elements;
     5. Fix a broken link to the 'Search Engine Optimization' section;
     6. Consolodate CSS selectors;
-    7. Move the hero image into html and add alt text.
+    7. Move the hero image into html and add alt text;
+    8. Debug deployment issue where the images were not being loaded.
+        a. I had to change the relative filepaths to omit the "./" beofre the parent folder.
 
 
 ## Screenshot
