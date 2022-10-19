@@ -19,7 +19,7 @@ In this project, I was able to:
 
 
 ## Screenshot
-
+![Deployed Horiseon-Challenge One page screenshot](./Assets/images/Horiseon-Deployment-Screenshot.png)
 
 ## Deployed Application Link
 https://mfrabott.github.io/horiseon-accessibility-refactoring/
