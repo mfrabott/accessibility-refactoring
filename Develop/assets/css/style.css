@@ -65,7 +65,8 @@ p {
     font-size: 16px;
 }
 
-/* Services-offered section */
+
+/* Positioning rules*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -76,13 +77,14 @@ p {
     margin-left: 25px;
 }
 
+/* Services-offered section */
 .offered-services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.services {
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -91,12 +93,12 @@ p {
     color: #ffffff;
 }
 
-.services h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.services img {
+.service img {
     max-height: 200px;
 }
 

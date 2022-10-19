@@ -1,7 +1,9 @@
 # accessibility-refactoring
 
+## Objectives
 This code is a challenge to refactor existing code to enhance accessibility and to be more concise.
 
+### Learned and Completed Tasks
 In this project, I was able to:
     1. Add alt text to the existing images in the code;
     2. Add a descriptive title to the webpage; 
@@ -11,4 +13,8 @@ In this project, I was able to:
     6. Consolodate CSS selectors;
     7. Move the hero image into html and add alt text.
 
+#### Screenshot
+
+
+##### Deployed Application Link
 
